@@ -1,0 +1,14 @@
+
+Name:  		 Seth, Mills
+Age: 		 19
+ID:  		 V-2078
+Attending Gala:	 true
+Arrival Time: 	 8:02 AM
+
+
+Name:  		 Jarvis, Henry
+Age: 		 19
+ID:  		 V-2147
+Attending Gala:	 true
+Arrival Time: 	 1:32 PM
+

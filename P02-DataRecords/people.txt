@@ -1,0 +1,14 @@
+Wilbur Grant, 41, E-3356, YES, STEM-107, 58795.00, 12
+Nevil Pier, 58, E-1214, YES, STEM-219, 64250.00, 28
+Jessup Alcott, 36, E-1022, NO, STEM-224, 56135.00, 5
+Winter Bourne, 41, E-1353, YES, STEM-115, 61505.00, 13
+Michael Wang, 38, E-5168, NO, STEM-307, 60125.00, 8
+Jessica Lemon, 51, E-2417, YES, STEM-412, 56245.00, 21
+Holden Flack, 34, E-3314, NO, STEM-501, 55875.00, 6
+Henry Li, 62, E-1318, YES, STEM-337, 59795.00, 27
+Walter Mitty, 43, V-2123, NO, 9:34 AM
+Jarvis Henry, 19, V-2147, YES, 1:32 PM
+Samuel Li, 27, V-2153, YES, 2:15 PM 
+Joseph Mills, 21, V-2111, NO, 8:30 AM
+Seth Mills, 19, V-2078, YES, 8:02 AM
+Ofemi Gomez, 24, V-2158, NO, 2:26 PM 

@@ -1,0 +1,30 @@
+
+Name:  		 Jessica, Lemon
+Age: 		 51
+ID:  		 E-2417
+Attending Gala:	 true
+Office:		 STEM-412
+Salary:		 56245.0
+Service:	 21
+Bi-Mothly:	 2343.5416666666665
+
+
+Name:  		 Wilbur, Grant
+Age: 		 41
+ID:  		 E-3356
+Attending Gala:	 true
+Office:		 STEM-107
+Salary:		 58795.0
+Service:	 12
+Bi-Mothly:	 2449.7916666666665
+
+
+Name:  		 Winter, Bourne
+Age: 		 41
+ID:  		 E-1353
+Attending Gala:	 true
+Office:		 STEM-115
+Salary:		 61505.0
+Service:	 13
+Bi-Mothly:	 2562.7083333333335
+

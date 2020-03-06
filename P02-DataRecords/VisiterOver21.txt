@@ -1,0 +1,28 @@
+
+Name:  		 Joseph, Mills
+Age: 		 21
+ID:  		 V-2111
+Attending Gala:	 false
+Arrival Time: 	 8:30 AM
+
+
+Name:  		 Walter, Mitty
+Age: 		 43
+ID:  		 V-2123
+Attending Gala:	 false
+Arrival Time: 	 9:34 AM
+
+
+Name:  		 Samuel, Li
+Age: 		 27
+ID:  		 V-2153
+Attending Gala:	 true
+Arrival Time: 	 2:15 PM
+
+
+Name:  		 Ofemi, Gomez
+Age: 		 24
+ID:  		 V-2158
+Attending Gala:	 false
+Arrival Time: 	 2:26 PM
+

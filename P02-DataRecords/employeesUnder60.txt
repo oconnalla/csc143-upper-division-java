@@ -1,0 +1,30 @@
+
+Name:  		 Michael, Wang
+Age: 		 38
+ID:  		 E-5168
+Attending Gala:	 false
+Office:		 STEM-307
+Salary:		 60125.0
+Service:	 8
+Bi-Mothly:	 2505.2083333333335
+
+
+Name:  		 Nevil, Pier
+Age: 		 58
+ID:  		 E-1214
+Attending Gala:	 true
+Office:		 STEM-219
+Salary:		 64250.0
+Service:	 28
+Bi-Mothly:	 2677.0833333333335
+
+
+Name:  		 Winter, Bourne
+Age: 		 41
+ID:  		 E-1353
+Attending Gala:	 true
+Office:		 STEM-115
+Salary:		 61505.0
+Service:	 13
+Bi-Mothly:	 2562.7083333333335
+

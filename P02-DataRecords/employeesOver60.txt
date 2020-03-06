@@ -1,0 +1,50 @@
+
+Name:  		 Henry, Li
+Age: 		 62
+ID:  		 E-1318
+Attending Gala:	 true
+Office:		 STEM-337
+Salary:		 59795.0
+Service:	 27
+Bi-Mothly:	 2491.4583333333335
+
+
+Name:  		 Holden, Flack
+Age: 		 34
+ID:  		 E-3314
+Attending Gala:	 false
+Office:		 STEM-501
+Salary:		 55875.0
+Service:	 6
+Bi-Mothly:	 2328.125
+
+
+Name:  		 Jessica, Lemon
+Age: 		 51
+ID:  		 E-2417
+Attending Gala:	 true
+Office:		 STEM-412
+Salary:		 56245.0
+Service:	 21
+Bi-Mothly:	 2343.5416666666665
+
+
+Name:  		 Jessup, Alcott
+Age: 		 36
+ID:  		 E-1022
+Attending Gala:	 false
+Office:		 STEM-224
+Salary:		 56135.0
+Service:	 5
+Bi-Mothly:	 2338.9583333333335
+
+
+Name:  		 Wilbur, Grant
+Age: 		 41
+ID:  		 E-3356
+Attending Gala:	 true
+Office:		 STEM-107
+Salary:		 58795.0
+Service:	 12
+Bi-Mothly:	 2449.7916666666665
+

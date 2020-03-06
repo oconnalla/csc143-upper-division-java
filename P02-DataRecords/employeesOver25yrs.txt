@@ -1,0 +1,20 @@
+
+Name:  		 Henry, Li
+Age: 		 62
+ID:  		 E-1318
+Attending Gala:	 true
+Office:		 STEM-337
+Salary:		 59795.0
+Service:	 27
+Bi-Mothly:	 2491.4583333333335
+
+
+Name:  		 Nevil, Pier
+Age: 		 58
+ID:  		 E-1214
+Attending Gala:	 true
+Office:		 STEM-219
+Salary:		 64250.0
+Service:	 28
+Bi-Mothly:	 2677.0833333333335
+
